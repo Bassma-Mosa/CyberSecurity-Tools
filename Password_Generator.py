@@ -47,4 +47,5 @@ if save == "y":
     with open("passwords.txt", "a") as file:
         for pw in passwords:
             file.write(pw + "\n")
-    print("Password saved to passwords.txt ✔")
+    print("Passwords saved to passwords.txt ✔")
+
