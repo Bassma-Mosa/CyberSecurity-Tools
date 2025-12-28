@@ -30,9 +30,6 @@ Save password to file? (y/n): y
 Password saved ✔
 ---
 
-
----
-
 ### 2️⃣ Advanced Port Scanner 🔎
 
 A multi-threaded port scanner similar to mini-Nmap.
@@ -47,10 +44,8 @@ A multi-threaded port scanner similar to mini-Nmap.
 **Run using CLI Arguments:**
 **Output Example:**
 Scanning Target: 8.8.8.8
-
 🟢 Port 53 OPEN → DNS
 🟢 Port 80 OPEN → HTTP
-
 Scan Completed ✔
 Report saved as scan_8_8_8_8.txt
 ---
