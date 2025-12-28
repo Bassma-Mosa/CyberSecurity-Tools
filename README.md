@@ -26,11 +26,13 @@ A tool for generating secure passwords.
 $ python password_generator.py
 
 Enter password length: 12
+
 Include special characters? (y/n): y
 
 Generated Password:  $Ka93@uQpL#2
 
 Do you want to save the password to a file? (y/n): y
+
 Password saved successfully ✔
 
 
@@ -47,9 +49,13 @@ A multi-threaded port scanner similar to mini-Nmap.
 
 **Run using CLI Arguments:**
 **Output Example:**
--Scanning Target: 8.8.8.8
--🟢 Port 53 OPEN → DNS 
--🟢 Port 80 OPEN → HTTP 
--Scan Completed ✔ 
--Report saved as scan_8_8_8_8.txt
+Scanning Target: 8.8.8.8
+
+🟢 Port 53 OPEN → DNS 
+
+🟢 Port 80 OPEN → HTTP 
+
+ Scan Completed ✔ 
+ 
+ Report saved as scan_8_8_8_8.txt
 
