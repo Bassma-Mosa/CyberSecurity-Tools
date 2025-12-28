@@ -23,11 +23,15 @@ A tool for generating secure passwords.
 **Run:**
 
 **Example Output:**
--Enter length: 12
--Include special characters? (y/n): y
--Generated Password → $Ka93@uQpL#2
--Save password to file? (y/n): y
--Password saved ✔
+$ python password_generator.py
+
+Enter password length: 12
+Include special characters? (y/n): y
+
+Generated Password:  $Ka93@uQpL#2
+
+Do you want to save the password to a file? (y/n): y
+Password saved successfully ✔
 
 
 ### 2️⃣ Advanced Port Scanner 🔎
