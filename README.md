@@ -28,6 +28,7 @@ Include special characters? (y/n): y
 Generated Password → $Ka93@uQpL#2
 Save password to file? (y/n): y
 Password saved ✔
+---
 
 
 ---
@@ -52,3 +53,4 @@ Scanning Target: 8.8.8.8
 
 Scan Completed ✔
 Report saved as scan_8_8_8_8.txt
+---
