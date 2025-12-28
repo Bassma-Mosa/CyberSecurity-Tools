@@ -23,11 +23,11 @@ A tool for generating secure passwords.
 **Run:**
 
 **Example Output:**
-Enter length: 12
-Include special characters? (y/n): y
-Generated Password → $Ka93@uQpL#2
-Save password to file? (y/n): y
-Password saved ✔
+-Enter length: 12
+-Include special characters? (y/n): y
+-Generated Password → $Ka93@uQpL#2
+-Save password to file? (y/n): y
+-Password saved ✔
 
 
 ### 2️⃣ Advanced Port Scanner 🔎
@@ -43,9 +43,9 @@ A multi-threaded port scanner similar to mini-Nmap.
 
 **Run using CLI Arguments:**
 **Output Example:**
-Scanning Target: 8.8.8.8 \n
-🟢 Port 53 OPEN → DNS \n
-🟢 Port 80 OPEN → HTTP \n
-Scan Completed ✔ \n
-Report saved as scan_8_8_8_8.txt
+-Scanning Target: 8.8.8.8
+-🟢 Port 53 OPEN → DNS 
+-🟢 Port 80 OPEN → HTTP 
+-Scan Completed ✔ 
+-Report saved as scan_8_8_8_8.txt
 
