@@ -7,3 +7,10 @@ Projects included:
 - Option to include special characters
 - Can generate multiple passwords
 - Saves passwords to a text file
+
+## 2) Port Scanner
+- Multi-threaded scanning
+- Banner Grabbing
+- Service Detection
+- Result Report Output
+- CLI Arguments support
